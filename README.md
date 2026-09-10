@@ -1,1 +1,1 @@
-![Illustration GorillaTag](ecran.png)
+![Illustration GorillaTag](bannière.png)
