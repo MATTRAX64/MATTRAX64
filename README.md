@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banni%C3%A8re.png" width="75%"" alt="Gorilla Tag illustration by MATTRAX">
+<img src="banni%C3%A8re.png" width="75%" alt="Gorilla Tag illustration by MATTRAX">
 
 # MATTRAX
 
